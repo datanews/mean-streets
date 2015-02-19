@@ -27,7 +27,10 @@ Data is compiled based on collision reports from the NYPD Office of the Deputy C
 * [The Mean Streets Tracker](http://project.wnyc.org/traffic-deaths/)
 * [The Mean Streets Memorial](http://project.wnyc.org/memorial/)
 
-# Credits
+# Credits/Contact
+
+transponation@gmail.com  
+(347) 352-5686
 
 WNYC Transportation Nation:
 
@@ -43,8 +46,3 @@ WNYC Data News:
 * Kio Stark
 * Louise Ma
 * Noah Veltman
-
-# Get in touch
-
-transponation@gmail.com  
-(347) 352-5686
