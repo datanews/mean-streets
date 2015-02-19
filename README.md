@@ -14,7 +14,7 @@ Data is compiled based on collision reports from the NYPD Office of the Deputy C
 
 * Date
 * Time
-* Location (borough )
+* Location (borough, police precinct, intersection, latitude, longitude)
 * Victim information (name, gender, and age)
 * Victim type (pedestrian, driver, cyclist, or passenger)
 * Vehicle description
